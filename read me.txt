@@ -1,0 +1,32 @@
+# Touch War - Multiplayer Shooting Game
+
+![Game Logo](https://via.placeholder.com/150x150.png?text=Touch+War)
+
+## Features
+- 4-player competitive gameplay (keyboard or touch)
+- 30-second timed matches
+- Dynamic target spawning with visual effects
+- Real-time score tracking
+- Mobile-first responsive design
+- No dependencies - pure HTML/CSS/JS
+
+## How to Play
+1. Enter player names
+2. Press Start Game
+3. Use:
+   - **Desktop**: Q/W/E/R keys to select players
+   - **Mobile**: On-screen buttons
+4. Click/tap targets to score points
+5. Highest score when time runs out wins!
+
+## Deployment
+1. Simply host the `index.html` file on any web server
+2. No build process required
+3. Works on all modern browsers
+
+## Screenshots
+![Gameplay](https://via.placeholder.com/400x300.png?text=Gameplay)
+![Mobile View](https://via.placeholder.com/300x400.png?text=Mobile+View)
+
+## License
+MIT License - Free for personal and commercial use
